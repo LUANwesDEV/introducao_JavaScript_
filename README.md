@@ -1,2 +1,2 @@
 # introducao_JavaScript_
-Alguns projetos de estudos usando JavaScript !!
+Alguns projetos de estudos usando JavaScript !!!
